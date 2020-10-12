@@ -1,0 +1,6 @@
+# Jetbrains editors (GoLand, etc)
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
